@@ -1,0 +1,69 @@
+
+body{
+  margin: 0 auto;
+  text-align: center;
+  background-color: #21262d;
+}
+.TitleSection input {
+  width: 200px;
+  height: 40px;
+  border-radius: 10px;
+  border: 1px solid #5e98b1;
+  font-size: 18px;
+  padding-left: 10px;
+}
+.TitleSection button {
+  width: 180px;
+  height: 40px;
+  margin: 20px;
+  border-radius: 10px;
+  font-size: 18px;
+  padding-left: 10px;
+  border: none;
+  color: #e7e7e6;
+  background-color: #006cbf
+}
+
+.TitleSection button:hover {
+  cursor: pointer;
+}
+
+.card{
+  border: 2px solid #d4eafc;
+  border-radius: 8px;
+  background-color: #1c2c43;
+  width: 90%;
+  height: auto;
+  margin: 60px auto;
+}
+h1{
+  font-size: 28px;
+  padding: 15px;
+  margin-top: 30px;
+  font-weight: 900;
+  text-transform: uppercase;
+  margin: 0 auto;
+  color: #d4eafc;
+}
+h3{
+  width: 90%;
+  font-size: 22px;
+  padding: 18px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-weight: 700;
+  max-width: 600px;
+  border-radius: 8px;
+  color: #d4eafc;
+  margin: 0 auto;
+  text-align: center;
+}
+img {
+  display: block;
+  max-width: 250px;
+  border-radius: 50%;
+  padding: 10px;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 20px;
+}
